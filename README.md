@@ -2,3 +2,5 @@
 ## forEach and map
 
 ### In JavaScript, functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions. Two commonly used higher-order functions for arrays are forEach and map. 
+
+<a href="https://sondosalnbabteh.github.io/Higher-Order-Function/">Live URL</a>
